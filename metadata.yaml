@@ -1,5 +1,5 @@
 _repo: Richard-III_2257
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Richard III, King of England, 1452-1485 -- Drama'
 - !lcsh 'Tragedies'
 - !lcsh 'Great Britain -- History -- Richard III, 1483-1485 -- Drama'
+- GITenberg
 title: Richard III
 url: http://www.gutenberg.org/ebooks/2257
